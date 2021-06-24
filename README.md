@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @algoexpert8
 - 👀 I’m interested in Java and Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me email- aditya7golwala@gmail.com
 
 <!---
